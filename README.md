@@ -37,4 +37,9 @@ Remix IDE compile
 
 5. Interact with the deployed smart contract through JavaScript, web3.js, or any Ethereum-compatible tool or framework.
 
+## License
+
+This project is licensed under the MIT License
+SPDX-License-Identifier: MIT
+
 
